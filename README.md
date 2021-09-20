@@ -1,4 +1,4 @@
-# Sentimental Analysis of Covid 19 vaccines on Kenyan Twitter
+# Sucide Detection
 #### {Brief description of application}, {Date of current version}
 #### By **{List of contributors}**
 ## Description
